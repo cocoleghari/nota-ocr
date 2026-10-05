@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.streamlit/secrets.toml
+# database berisi data belanja pribadi: jangan pernah di-commit
+data/*.db

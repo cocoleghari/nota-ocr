@@ -1,0 +1,927 @@
+[
+  {
+    "file": "nota_001.jpg",
+    "toko": "TOKO ROTI MANIS",
+    "tanggal": "2026-09-11",
+    "total": 101000,
+    "items": [
+      {
+        "nama": "Sabun Mandi",
+        "qty": 2,
+        "subtotal": 13000
+      },
+      {
+        "nama": "Ayam Bakar",
+        "qty": 1,
+        "subtotal": 35000
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 2,
+        "subtotal": 58000
+      }
+    ]
+  },
+  {
+    "file": "nota_002.jpg",
+    "toko": "TOKO BERKAH JAYA",
+    "tanggal": "2026-02-21",
+    "total": 144500,
+    "items": [
+      {
+        "nama": "Soto Betawi",
+        "qty": 3,
+        "subtotal": 96000
+      },
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 3,
+        "subtotal": 58500
+      }
+    ]
+  },
+  {
+    "file": "nota_003.jpg",
+    "toko": "SUPERMARKET MAKMUR",
+    "tanggal": "2026-07-21",
+    "total": 96015,
+    "items": [
+      {
+        "nama": "Roti Tawar",
+        "qty": 1,
+        "subtotal": 15500
+      },
+      {
+        "nama": "Teh Tarik",
+        "qty": 2,
+        "subtotal": 24000
+      },
+      {
+        "nama": "Kerupuk Udang",
+        "qty": 1,
+        "subtotal": 12000
+      },
+      {
+        "nama": "Nasi Goreng Spesial",
+        "qty": 1,
+        "subtotal": 25000
+      },
+      {
+        "nama": "Es Teh Manis",
+        "qty": 2,
+        "subtotal": 10000
+      }
+    ]
+  },
+  {
+    "file": "nota_004.jpg",
+    "toko": "SATE KHAS SENAYAN",
+    "tanggal": "2026-02-16",
+    "total": 136530,
+    "items": [
+      {
+        "nama": "Nasi Goreng Spesial",
+        "qty": 1,
+        "subtotal": 25000
+      },
+      {
+        "nama": "Minyak Goreng 2L",
+        "qty": 1,
+        "subtotal": 38000
+      },
+      {
+        "nama": "Nasi Putih",
+        "qty": 2,
+        "subtotal": 12000
+      },
+      {
+        "nama": "Croissant",
+        "qty": 1,
+        "subtotal": 22000
+      },
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 1,
+        "subtotal": 19500
+      },
+      {
+        "nama": "Sabun Mandi",
+        "qty": 1,
+        "subtotal": 6500
+      }
+    ]
+  },
+  {
+    "file": "nota_005.jpg",
+    "toko": "SATE KHAS SENAYAN",
+    "tanggal": "2026-08-07",
+    "total": 31000,
+    "items": [
+      {
+        "nama": "Jus Alpukat",
+        "qty": 1,
+        "subtotal": 16000
+      },
+      {
+        "nama": "Es Jeruk",
+        "qty": 1,
+        "subtotal": 8000
+      },
+      {
+        "nama": "Indomie Goreng",
+        "qty": 2,
+        "subtotal": 7000
+      }
+    ]
+  },
+  {
+    "file": "nota_006.jpg",
+    "toko": "WARKOP KAWAN LAMA",
+    "tanggal": "2026-08-10",
+    "total": 209790,
+    "items": [
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 1,
+        "subtotal": 9000
+      },
+      {
+        "nama": "Indomie Goreng",
+        "qty": 2,
+        "subtotal": 7000
+      },
+      {
+        "nama": "Es Teh Manis",
+        "qty": 2,
+        "subtotal": 10000
+      },
+      {
+        "nama": "Sate Ayam 10 tusuk",
+        "qty": 1,
+        "subtotal": 28000
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 1,
+        "subtotal": 68000
+      },
+      {
+        "nama": "Roti Tawar",
+        "qty": 2,
+        "subtotal": 31000
+      },
+      {
+        "nama": "Mie Ayam Bakso",
+        "qty": 2,
+        "subtotal": 36000
+      }
+    ]
+  },
+  {
+    "file": "nota_007.jpg",
+    "toko": "KAFE SENJA",
+    "tanggal": "2026-07-28",
+    "total": 100000,
+    "items": [
+      {
+        "nama": "Kopi Susu",
+        "qty": 1,
+        "subtotal": 18000
+      },
+      {
+        "nama": "Sabun Mandi",
+        "qty": 2,
+        "subtotal": 13000
+      },
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 2,
+        "subtotal": 39000
+      },
+      {
+        "nama": "Mie Ayam Bakso",
+        "qty": 2,
+        "subtotal": 36000
+      },
+      {
+        "nama": "Air Mineral 600ml",
+        "qty": 1,
+        "subtotal": 4000
+      }
+    ]
+  },
+  {
+    "file": "nota_008.jpg",
+    "toko": "WARUNG MAKAN SEDERHANA",
+    "tanggal": "2026-06-12",
+    "total": 184255,
+    "items": [
+      {
+        "nama": "Gula Pasir 1kg",
+        "qty": 3,
+        "subtotal": 52500
+      },
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 2,
+        "subtotal": 39000
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 1,
+        "subtotal": 29000
+      },
+      {
+        "nama": "Teh Tarik",
+        "qty": 2,
+        "subtotal": 24000
+      },
+      {
+        "nama": "Air Mineral 600ml",
+        "qty": 2,
+        "subtotal": 8000
+      },
+      {
+        "nama": "Mie Ayam Bakso",
+        "qty": 1,
+        "subtotal": 18000
+      }
+    ]
+  },
+  {
+    "file": "nota_009.jpg",
+    "toko": "MINIMARKET SEJAHTERA",
+    "tanggal": "2026-02-17",
+    "total": 58830,
+    "items": [
+      {
+        "nama": "Mie Ayam Bakso",
+        "qty": 1,
+        "subtotal": 18000
+      },
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 1,
+        "subtotal": 19500
+      },
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 1,
+        "subtotal": 9000
+      },
+      {
+        "nama": "Sabun Mandi",
+        "qty": 1,
+        "subtotal": 6500
+      }
+    ]
+  },
+  {
+    "file": "nota_010.jpg",
+    "toko": "AYAM GEPREK JUARA",
+    "tanggal": "2026-01-25",
+    "total": 389600,
+    "items": [
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 3,
+        "subtotal": 58500
+      },
+      {
+        "nama": "Es Jeruk",
+        "qty": 2,
+        "subtotal": 16000
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 2,
+        "subtotal": 136000
+      },
+      {
+        "nama": "Croissant",
+        "qty": 2,
+        "subtotal": 44000
+      },
+      {
+        "nama": "Gula Pasir 1kg",
+        "qty": 1,
+        "subtotal": 17500
+      },
+      {
+        "nama": "Soto Betawi",
+        "qty": 2,
+        "subtotal": 64000
+      },
+      {
+        "nama": "Kerupuk Udang",
+        "qty": 2,
+        "subtotal": 24000
+      }
+    ]
+  },
+  {
+    "file": "nota_011.jpg",
+    "toko": "SUPERMARKET MAKMUR",
+    "tanggal": "2026-05-21",
+    "total": 160500,
+    "items": [
+      {
+        "nama": "Minyak Goreng 2L",
+        "qty": 1,
+        "subtotal": 38000
+      },
+      {
+        "nama": "Es Jeruk",
+        "qty": 1,
+        "subtotal": 8000
+      },
+      {
+        "nama": "Soto Betawi",
+        "qty": 3,
+        "subtotal": 96000
+      },
+      {
+        "nama": "Air Mineral 600ml",
+        "qty": 1,
+        "subtotal": 4000
+      },
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 1,
+        "subtotal": 19500
+      }
+    ]
+  },
+  {
+    "file": "nota_012.jpg",
+    "toko": "TOKO ROTI MANIS",
+    "tanggal": "2026-02-11",
+    "total": 44950,
+    "items": [
+      {
+        "nama": "Kopi Susu",
+        "qty": 2,
+        "subtotal": 36000
+      },
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 1,
+        "subtotal": 9000
+      }
+    ]
+  },
+  {
+    "file": "nota_013.jpg",
+    "toko": "SUPERMARKET MAKMUR",
+    "tanggal": "2026-05-09",
+    "total": 178150,
+    "items": [
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 2,
+        "subtotal": 39000
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 1,
+        "subtotal": 68000
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 2,
+        "subtotal": 58000
+      }
+    ]
+  },
+  {
+    "file": "nota_014.jpg",
+    "toko": "RM PADANG SALERO",
+    "tanggal": "2026-01-02",
+    "total": 344655,
+    "items": [
+      {
+        "nama": "Tempe Goreng",
+        "qty": 3,
+        "subtotal": 24000
+      },
+      {
+        "nama": "Sabun Mandi",
+        "qty": 3,
+        "subtotal": 19500
+      },
+      {
+        "nama": "Teh Tarik",
+        "qty": 1,
+        "subtotal": 12000
+      },
+      {
+        "nama": "Mie Ayam Bakso",
+        "qty": 2,
+        "subtotal": 36000
+      },
+      {
+        "nama": "Sate Ayam 10 tusuk",
+        "qty": 2,
+        "subtotal": 56000
+      },
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 3,
+        "subtotal": 27000
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 2,
+        "subtotal": 136000
+      }
+    ]
+  },
+  {
+    "file": "nota_015.jpg",
+    "toko": "WARUNG MAKAN SEDERHANA",
+    "tanggal": "2026-09-19",
+    "total": 185500,
+    "items": [
+      {
+        "nama": "Gula Pasir 1kg",
+        "qty": 1,
+        "subtotal": 17500
+      },
+      {
+        "nama": "Kopi Susu",
+        "qty": 3,
+        "subtotal": 54000
+      },
+      {
+        "nama": "Jus Alpukat",
+        "qty": 2,
+        "subtotal": 32000
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 1,
+        "subtotal": 29000
+      },
+      {
+        "nama": "Teh Tarik",
+        "qty": 3,
+        "subtotal": 36000
+      },
+      {
+        "nama": "Croissant",
+        "qty": 1,
+        "subtotal": 22000
+      }
+    ]
+  },
+  {
+    "file": "nota_016.jpg",
+    "toko": "SUPERMARKET MAKMUR",
+    "tanggal": "2026-05-06",
+    "total": 147620,
+    "items": [
+      {
+        "nama": "Es Jeruk",
+        "qty": 1,
+        "subtotal": 8000
+      },
+      {
+        "nama": "Minyak Goreng 2L",
+        "qty": 1,
+        "subtotal": 38000
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 3,
+        "subtotal": 87000
+      },
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 1,
+        "subtotal": 9000
+      }
+    ]
+  },
+  {
+    "file": "nota_017.jpg",
+    "toko": "BAKSO PAK KUMIS",
+    "tanggal": "2026-08-15",
+    "total": 123000,
+    "items": [
+      {
+        "nama": "Nasi Goreng Spesial",
+        "qty": 1,
+        "subtotal": 25000
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 1,
+        "subtotal": 68000
+      },
+      {
+        "nama": "Tempe Goreng",
+        "qty": 2,
+        "subtotal": 16000
+      },
+      {
+        "nama": "Es Teh Manis",
+        "qty": 1,
+        "subtotal": 5000
+      },
+      {
+        "nama": "Teh Tarik",
+        "qty": 1,
+        "subtotal": 12000
+      },
+      {
+        "nama": "Indomie Goreng",
+        "qty": 2,
+        "subtotal": 7000
+      }
+    ]
+  },
+  {
+    "file": "nota_018.jpg",
+    "toko": "WARUNG MAKAN SEDERHANA",
+    "tanggal": "2026-01-08",
+    "total": 57000,
+    "items": [
+      {
+        "nama": "Ayam Bakar",
+        "qty": 1,
+        "subtotal": 35000
+      },
+      {
+        "nama": "Jus Alpukat",
+        "qty": 1,
+        "subtotal": 16000
+      },
+      {
+        "nama": "Nasi Putih",
+        "qty": 1,
+        "subtotal": 6000
+      }
+    ]
+  },
+  {
+    "file": "nota_019.jpg",
+    "toko": "AYAM GEPREK JUARA",
+    "tanggal": "2026-05-17",
+    "total": 167500,
+    "items": [
+      {
+        "nama": "Susu UHT 1L",
+        "qty": 1,
+        "subtotal": 19500
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 1,
+        "subtotal": 68000
+      },
+      {
+        "nama": "Es Jeruk",
+        "qty": 1,
+        "subtotal": 8000
+      },
+      {
+        "nama": "Soto Betawi",
+        "qty": 2,
+        "subtotal": 64000
+      },
+      {
+        "nama": "Tempe Goreng",
+        "qty": 1,
+        "subtotal": 8000
+      }
+    ]
+  },
+  {
+    "file": "nota_020.jpg",
+    "toko": "MINIMARKET SEJAHTERA",
+    "tanggal": "2026-08-06",
+    "total": 46610,
+    "items": [
+      {
+        "nama": "Tempe Goreng",
+        "qty": 2,
+        "subtotal": 16000
+      },
+      {
+        "nama": "Gula Pasir 1kg",
+        "qty": 2,
+        "subtotal": 35000
+      }
+    ]
+  },
+  {
+    "file": "nota_021.jpg",
+    "toko": "SATE KHAS SENAYAN",
+    "tanggal": "2026-09-24",
+    "total": 84500,
+    "items": [
+      {
+        "nama": "Roti Tawar",
+        "qty": 1,
+        "subtotal": 15500
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 2,
+        "subtotal": 58000
+      },
+      {
+        "nama": "Air Mineral 600ml",
+        "qty": 1,
+        "subtotal": 4000
+      },
+      {
+        "nama": "Kerupuk Udang",
+        "qty": 1,
+        "subtotal": 12000
+      }
+    ]
+  },
+  {
+    "file": "nota_022.jpg",
+    "toko": "KAFE SENJA",
+    "tanggal": "2026-01-26",
+    "total": 76000,
+    "items": [
+      {
+        "nama": "Croissant",
+        "qty": 1,
+        "subtotal": 22000
+      },
+      {
+        "nama": "Soto Betawi",
+        "qty": 2,
+        "subtotal": 64000
+      }
+    ]
+  },
+  {
+    "file": "nota_023.jpg",
+    "toko": "SATE KHAS SENAYAN",
+    "tanggal": "2026-07-14",
+    "total": 205000,
+    "items": [
+      {
+        "nama": "Soto Betawi",
+        "qty": 1,
+        "subtotal": 32000
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 2,
+        "subtotal": 136000
+      },
+      {
+        "nama": "Nasi Goreng Spesial",
+        "qty": 1,
+        "subtotal": 25000
+      },
+      {
+        "nama": "Kerupuk Udang",
+        "qty": 1,
+        "subtotal": 12000
+      }
+    ]
+  },
+  {
+    "file": "nota_024.jpg",
+    "toko": "SUPERMARKET MAKMUR",
+    "tanggal": "2026-05-25",
+    "total": 152070,
+    "items": [
+      {
+        "nama": "Nasi Goreng Spesial",
+        "qty": 1,
+        "subtotal": 25000
+      },
+      {
+        "nama": "Soto Betawi",
+        "qty": 2,
+        "subtotal": 64000
+      },
+      {
+        "nama": "Tempe Goreng",
+        "qty": 1,
+        "subtotal": 8000
+      },
+      {
+        "nama": "Sabun Mandi",
+        "qty": 1,
+        "subtotal": 6500
+      },
+      {
+        "nama": "Es Teh Manis",
+        "qty": 2,
+        "subtotal": 10000
+      },
+      {
+        "nama": "Roti Tawar",
+        "qty": 1,
+        "subtotal": 15500
+      },
+      {
+        "nama": "Es Jeruk",
+        "qty": 1,
+        "subtotal": 8000
+      }
+    ]
+  },
+  {
+    "file": "nota_025.jpg",
+    "toko": "WARUNG MAKAN SEDERHANA",
+    "tanggal": "2026-04-06",
+    "total": 75480,
+    "items": [
+      {
+        "nama": "Sate Ayam 10 tusuk",
+        "qty": 2,
+        "subtotal": 56000
+      },
+      {
+        "nama": "Nasi Putih",
+        "qty": 2,
+        "subtotal": 12000
+      }
+    ]
+  },
+  {
+    "file": "nota_026.jpg",
+    "toko": "TOKO ROTI MANIS",
+    "tanggal": "2026-05-28",
+    "total": 316905,
+    "items": [
+      {
+        "nama": "Es Jeruk",
+        "qty": 2,
+        "subtotal": 16000
+      },
+      {
+        "nama": "Beras Premium 5kg",
+        "qty": 1,
+        "subtotal": 68000
+      },
+      {
+        "nama": "Croissant",
+        "qty": 3,
+        "subtotal": 66000
+      },
+      {
+        "nama": "Indomie Goreng",
+        "qty": 3,
+        "subtotal": 10500
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 1,
+        "subtotal": 29000
+      },
+      {
+        "nama": "Soto Betawi",
+        "qty": 3,
+        "subtotal": 96000
+      }
+    ]
+  },
+  {
+    "file": "nota_027.jpg",
+    "toko": "AYAM GEPREK JUARA",
+    "tanggal": "2026-04-03",
+    "total": 118000,
+    "items": [
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 2,
+        "subtotal": 18000
+      },
+      {
+        "nama": "Teh Tarik",
+        "qty": 1,
+        "subtotal": 12000
+      },
+      {
+        "nama": "Minyak Goreng 2L",
+        "qty": 2,
+        "subtotal": 76000
+      },
+      {
+        "nama": "Air Mineral 600ml",
+        "qty": 3,
+        "subtotal": 12000
+      }
+    ]
+  },
+  {
+    "file": "nota_028.jpg",
+    "toko": "SUPERMARKET MAKMUR",
+    "tanggal": "2026-05-24",
+    "total": 104340,
+    "items": [
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 1,
+        "subtotal": 9000
+      },
+      {
+        "nama": "Minyak Goreng 2L",
+        "qty": 1,
+        "subtotal": 38000
+      },
+      {
+        "nama": "Ayam Bakar",
+        "qty": 1,
+        "subtotal": 35000
+      },
+      {
+        "nama": "Kerupuk Udang",
+        "qty": 1,
+        "subtotal": 12000
+      }
+    ]
+  },
+  {
+    "file": "nota_029.jpg",
+    "toko": "SATE KHAS SENAYAN",
+    "tanggal": "2026-08-03",
+    "total": 162605,
+    "items": [
+      {
+        "nama": "Kerupuk Udang",
+        "qty": 2,
+        "subtotal": 24000
+      },
+      {
+        "nama": "Kopi Susu",
+        "qty": 1,
+        "subtotal": 18000
+      },
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 2,
+        "subtotal": 18000
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 1,
+        "subtotal": 29000
+      },
+      {
+        "nama": "Sate Ayam 10 tusuk",
+        "qty": 1,
+        "subtotal": 28000
+      },
+      {
+        "nama": "Ayam Bakar",
+        "qty": 1,
+        "subtotal": 35000
+      },
+      {
+        "nama": "Indomie Goreng",
+        "qty": 1,
+        "subtotal": 3500
+      }
+    ]
+  },
+  {
+    "file": "nota_030.jpg",
+    "toko": "SUPERMARKET MAKMUR",
+    "tanggal": "2026-01-05",
+    "total": 173710,
+    "items": [
+      {
+        "nama": "Kopi Susu",
+        "qty": 2,
+        "subtotal": 36000
+      },
+      {
+        "nama": "Telur Ayam 1kg",
+        "qty": 1,
+        "subtotal": 29000
+      },
+      {
+        "nama": "Gula Pasir 1kg",
+        "qty": 2,
+        "subtotal": 35000
+      },
+      {
+        "nama": "Nasi Putih",
+        "qty": 3,
+        "subtotal": 18000
+      },
+      {
+        "nama": "Paracetamol Strip",
+        "qty": 2,
+        "subtotal": 18000
+      },
+      {
+        "nama": "Nasi Goreng Spesial",
+        "qty": 1,
+        "subtotal": 25000
+      }
+    ]
+  }
+]
